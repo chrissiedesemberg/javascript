@@ -693,6 +693,10 @@ a {
     transition: opacity ease-in-out 0.25s;
 }
 
+.bottom-row {
+    margin-top: 1.5rem;
+}
+
 .clickToLink {
     color: #242424;
 }
